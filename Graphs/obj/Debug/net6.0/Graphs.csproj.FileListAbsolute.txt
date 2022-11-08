@@ -1,0 +1,15 @@
+C:\Users\Abraham\source\repos\Project1\Graphs\bin\Debug\net6.0\Graphs.exe
+C:\Users\Abraham\source\repos\Project1\Graphs\bin\Debug\net6.0\Graphs.deps.json
+C:\Users\Abraham\source\repos\Project1\Graphs\bin\Debug\net6.0\Graphs.runtimeconfig.json
+C:\Users\Abraham\source\repos\Project1\Graphs\bin\Debug\net6.0\Graphs.dll
+C:\Users\Abraham\source\repos\Project1\Graphs\bin\Debug\net6.0\Graphs.pdb
+C:\Users\Abraham\source\repos\Project1\Graphs\obj\Debug\net6.0\Graphs.csproj.AssemblyReference.cache
+C:\Users\Abraham\source\repos\Project1\Graphs\obj\Debug\net6.0\Graphs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abraham\source\repos\Project1\Graphs\obj\Debug\net6.0\Graphs.AssemblyInfoInputs.cache
+C:\Users\Abraham\source\repos\Project1\Graphs\obj\Debug\net6.0\Graphs.AssemblyInfo.cs
+C:\Users\Abraham\source\repos\Project1\Graphs\obj\Debug\net6.0\Graphs.csproj.CoreCompileInputs.cache
+C:\Users\Abraham\source\repos\Project1\Graphs\obj\Debug\net6.0\Graphs.dll
+C:\Users\Abraham\source\repos\Project1\Graphs\obj\Debug\net6.0\refint\Graphs.dll
+C:\Users\Abraham\source\repos\Project1\Graphs\obj\Debug\net6.0\Graphs.pdb
+C:\Users\Abraham\source\repos\Project1\Graphs\obj\Debug\net6.0\Graphs.genruntimeconfig.cache
+C:\Users\Abraham\source\repos\Project1\Graphs\obj\Debug\net6.0\ref\Graphs.dll
